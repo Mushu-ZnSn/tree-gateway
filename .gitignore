@@ -16,3 +16,4 @@ test/data/root/logs
 /.vscode
 coverage
 logs
+*.iml
